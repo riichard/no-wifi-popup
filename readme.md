@@ -24,9 +24,10 @@ Here is a sample of the code. Deep inside you'll know what to do.
 ...
 ```
 
-## 4. Convert your index.html to a data-url for offline available access
-Your phone can't access the web-app without internet. Therefor we convert the
-HTML document to a data URL at [dataurl.net](http://dataurl.net/)
+## 4. Convert your index.html with your settings to a data-url for offline available access
+Your phone can't access the web-app without internet. Therefore we convert your  
+HTML document (with your settings) to a data URL at
+[dataurl.net](http://dataurl.net/) so your phone can access it offline-available.
 ![dataurl](screenshots/dataurl.png)
 
 ## 5. Email the data URL to yourself on your phone, and save the app to your homescreen for easy access 
