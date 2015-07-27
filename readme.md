@@ -41,5 +41,7 @@ Do it in airplane mode, the app will redirect you to the form. Simply go back
 one page and add the webpage to your homescreen.
 ![iphone](screenshots/iphone.jpg)
 
-## 3. It works, WIN!
+## 6. It works, WIN!
+Now simply open the bookmark on your homescreen, and the app will authenticate
+you to the network.
 ![win](screenshots/win.jpg)
