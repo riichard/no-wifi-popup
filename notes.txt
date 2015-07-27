@@ -6,7 +6,3 @@ https://dl.dropboxusercontent.com/s/vrw0w8y62c3s4ui/2015-07-27%20at%2007.25.png?
 # DataURL.net
 https://dl.dropboxusercontent.com/s/3c2n645v4ntifyb/2015-07-27%20at%2007.39.png?dl=0
 
-# Data URL
-```
-data:text/html;base64,PCFET0NUWVBFIGh0bWw+Cjxmb3JtIGFjdGlvbj0iaHR0cDovLzE3Mi4xNi4wLjEvcG9ydGFsL3VzZXItYXV0aGVuLnBocCIgbWV0aG9kPSJwb3N0Ij4KICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ0eHRMb2dpbiIgdmFsdWU9IlJlc2lkZW5jZUhvdFNwb3RfMDEiIC8+CiAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0idHh0UGFzc3dkIiB2YWx1ZT0iNzY2NzY4IiAvPgo8L2Zvcm0+CjxzY3JpcHQ+ZG9jdW1lbnQuZm9ybXNbMF0uc3VibWl0KCk7PC9zY3JpcHQ+Cg==
-```
