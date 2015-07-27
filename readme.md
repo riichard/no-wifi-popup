@@ -1,9 +1,15 @@
 # No Wifi Popup - Automatically connect to your hotel's WiFi network
 
-I'm highly frustrated with wifi popups in hotels and cafes. I quickly hacked
-a solution together as a proof of concept.
-You edit the network's post-values and it's URL, and it will send a POST
-request to your router to authenticate. 
+I'm highly frustrated with wifi popups in hotels and cafes. They:
+- never open a pop-up to connect when you need them
+- don't remember the data you entered (even though you checked 'remember me')
+- you never know when you lost connection when using https, you just wait until
+    the connection times out.
+- they don't work nicely when using an alternative DNS.
+
+I quickly hacked a solution together as a proof of concept. They only tackle
+the first two problems.  You edit the network's post-values and it's URL, and
+it will send a POST request to your router to authenticate. 
 
 Here follows a detailed description.
 
@@ -31,8 +37,9 @@ HTML document (with your settings) to a data URL at
 ![dataurl](screenshots/dataurl.png)
 
 ## 5. Email the data URL to yourself on your phone, and save the app to your homescreen for easy access 
-
-
+Do it in airplane mode, the app will redirect you to the form. Simply go back
+one page and add the webpage to your homescreen.
+![iphone](screenshots/iphone.jpg)
 
 ## 3. It works, WIN!
 ![win](screenshots/win.jpg)
